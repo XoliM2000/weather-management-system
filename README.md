@@ -101,7 +101,7 @@ weather-management-system/
 - Aviation
 
 ## 👤 Author
-Your Name - [@XoliM2000](https://github.com/XoliM2000)
+Your Name - [@XoliM2000](https://github.com/Xolisile-Zwane)
 
 ## 📝 License
 MIT License
